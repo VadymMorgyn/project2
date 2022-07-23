@@ -896,8 +896,8 @@ img {
 }
 
 .specialize_child span {
+	display: block;
 	margin-top: 10px;
-	display: inline-block;
 	padding-right: 30px;
 	padding-bottom: 10px;
 	border-bottom: 2px solid white;

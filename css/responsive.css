@@ -248,6 +248,10 @@
 }
 
 @media (max-width: 500px) {
+	.form_banner .mail {
+		width: 180px;
+	}
+
 	.statistic {
 		justify-content: center;
 		flex-direction: column;
